@@ -26,16 +26,20 @@ https://datasets.imdbws.com/
 ## Dashboard of the Project
 
 We created a dashboard on Tableau Public Software which explains the content of the seven datasets of the project. The screenshots of the dashboard are as follows:
-1. Home Page
+***1. Home Page***
+
 ![Home Page](photos/Home_Page.png)
 
-2. Basic Indicators
+***2. Basic Indicators***
+
 ![Basic Ind.](photos/Basic_Indicators.png)
 
-3. The Crew Analysis
+***3. The Crew Analysis***
+
 ![The crew](photos/The_crew_analysis.png)
 
-4. The Movies List
+***4. The Movies List***
+
 ![The movies](photos/The_Movie_Analysis.png)
 
 The link of dashboard of the project : 'https://public.tableau.com/app/profile/halil.ibrahim.celikel/viz/Projet2_tableau/Pagedaccueil'
