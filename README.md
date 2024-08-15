@@ -15,7 +15,7 @@ About the creation of the recommendation system, we first convert all the text v
 Since this is a non-supervised model, we passed the step 'model traing' by going directly to the prediction of NearestNeighbors, an unsupervised learner for implementing neighbor searches.
 We then tried to change the hyperparameter to get our model better but we dont' see much improvement so we sorted values by setting the weight on Votes and Genres.
 
-![The Feature Engineering](home2.png)
+![The Feature Engineering](photos/home2.png)
 
 ## The files of the project
 
@@ -27,13 +27,13 @@ https://datasets.imdbws.com/
 
 We created a dashboard on Tableau Public Software which explains the content of the seven datasets of the project. The screenshots of the dashboard are as follows:
 
-![Home Page](Home_Page.png)
+![Home Page](photos/Home_Page.png)
 
-![Basic Ind.](Basic_Indicators.png)
+![Basic Ind.](photos/Basic_Indicators.png)
 
-![The crew](The_crew_analysis.png)
+![The crew](photos/The_crew_analysis.png)
 
-![The movies](The_Movie_Analysis.png)
+![The movies](photos/The_Movie_Analysis.png)
 
 The link of dashboard of the project : 'https://public.tableau.com/app/profile/halil.ibrahim.celikel/viz/Projet2_tableau/Pagedaccueil'
 
