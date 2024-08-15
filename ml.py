@@ -141,6 +141,8 @@ def get_recom():
     
     # Loop to return each title
 
+    
+
     for i, row in recom.iterrows():
         recom_poster_path = row["poster_path"]
 
@@ -155,7 +157,9 @@ def get_recom():
             st.write("Ratings:", str(row["Average Ratings"]))
             st.write("Duration:", str(row["Duration"]))
             st.write(row["Genres"])
-    
+
+
+get_recom()
    
 
    
