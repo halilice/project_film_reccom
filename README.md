@@ -29,11 +29,11 @@ We created a dashboard on Tableau Public Software which explains the content of 
 
 ![Home Page](Home_Page.png)
 
-![Basic Ind.](Basic Indicators.png)
+![Basic Ind.](Basic_Indicators.png)
 
-![The crew](The crew analysis.png)
+![The crew](The_crew_analysis.png)
 
-![The movies](The Movie Analysis.png)
+![The movies](The_Movie_Analysis.png)
 
 The link of dashboard of the project : 'https://public.tableau.com/app/profile/halil.ibrahim.celikel/viz/Projet2_tableau/Pagedaccueil'
 
