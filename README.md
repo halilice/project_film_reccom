@@ -17,6 +17,26 @@ We then tried to change the hyperparameter to get our model better but we dont' 
 
 ![The Feature Engineering](home2.png)
 
+## The files of the project
+
+We used the files in the following link:
+
+https://datasets.imdbws.com/
+
+## Dashboard of the Project
+
+We created a dashboard on Tableau Public Software which explains the content of the seven datasets of the project. The screenshots of the dashboard are as follows:
+
+![Home Page](Home Page.png)
+
+![Basic Ind.](Basic Indicators.png)
+
+![The crew](The crew analysis.png)
+
+![The movies](The Movie Analysis.png)
+
+The link of dashboard of the project : 'https://public.tableau.com/app/profile/halil.ibrahim.celikel/viz/Projet2_tableau/Pagedaccueil'
+
 ## Files of the project
 
 ~~~~~
@@ -27,4 +47,5 @@ We then tried to change the hyperparameter to get our model better but we dont' 
 - 
 ~~~~~
 
-The link of streamlit page of the project: '[https://carsanalysis-app-egpuskxsb4ivhqrrddm8at.streamlit.app/](https://projectfilmreccom-dk3ib5yqhynkce3bc6igfd.streamlit.app/)'
+The link of streamlit page of the recommendation system: '(https://projectfilmreccom-dk3ib5yqhynkce3bc6igfd.streamlit.app/)'
+
