@@ -27,7 +27,7 @@ https://datasets.imdbws.com/
 
 We created a dashboard on Tableau Public Software which explains the content of the seven datasets of the project. The screenshots of the dashboard are as follows:
 
-![Home Page](Home Page.png)
+![Home Page](Home_Page.png)
 
 ![Basic Ind.](Basic Indicators.png)
 
