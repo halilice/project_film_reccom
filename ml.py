@@ -17,8 +17,8 @@ def get_recom():
     st.write("The current movie title is", title)
 
     # Importing datasets
-    poster = pd.read_csv(r"data/poster.csv")
-    df_return = pd.read_csv(r"data/return_movies.csv")
+    poster = pd.read_csv(r"poster.csv")
+    df_return = pd.read_csv(r"return_movies.csv")
 
     # Combining 2 datasets
     df_return = pd.concat([df_return, poster], axis=1)
