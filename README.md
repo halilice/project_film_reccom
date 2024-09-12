@@ -49,9 +49,9 @@ The link of dashboard of the project : 'https://public.tableau.com/app/profile/h
 
 We've created a streamlit application in which users can type in their favorite movie, and which recommends 10 similar movies based on users' entry. I am adding the screenshots of the application here:
 
-![The entry](photos/The_Movie_Analysis.png)
+![The entry](photos/users_entry.png)
 
-![The recommendation](photos/The_Movie_Analysis.png)
+![The recommendation](photos/recommendations.png)
 
 ## Files of the project
 
