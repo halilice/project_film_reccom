@@ -17,7 +17,7 @@ We then tried to change the hyperparameter to get our model better but we didn't
 
 ![The Feature Engineering](photos/home2.png)
 
-## The files of the project
+## The dataset of the project
 
 We used the files in the following link:
 
@@ -44,6 +44,14 @@ We created a dashboard on Tableau Public Software which explains the content of 
 ![The movies](photos/The_Movie_Analysis.png)
 
 The link of dashboard of the project : 'https://public.tableau.com/app/profile/halil.ibrahim.celikel/viz/Projet2_tableau/Pagedaccueil'
+
+## Streamlit application
+
+We've created a streamlit application in which users can type in their favorite movie, and which recommends 10 similar movies based on users' entry. I am adding the screenshots of the application here:
+
+![The entry](photos/The_Movie_Analysis.png)
+
+![The recommendation](photos/The_Movie_Analysis.png)
 
 ## Files of the project
 
