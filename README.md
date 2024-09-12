@@ -6,14 +6,14 @@
 
 ## Summary of the Project
 
-This is a project I implemented with my classmate Mai Tran at Wild Code School, where i learnt to become a data analyst. Our target is to create the  MRF - Movie Recommendation System which will recommend similar titles to user's given title according to Genres, popularity, Duration, etc. 
-We started with 10.73 millions titles that we explored to understand the content of all the given datasets. We filtered to down-size into a dataset of 450k titles. We then clean and remove missing values to get a final one with 430k titles.
+This is a project I implemented with my classmate Mai Tran at Wild Code School, where i learnt to become a data analyst. Our target is to create the  MRF - Movie Recommendation System which will recommend similar titles to user's given title according to Genres, popularity, Duration, etc.
+There were 10.73 million titles in the dataset that we explored. After cleaning, removing missing values and filtering with criterias that we chose, we got a dataset of 430k titles.  
 
 ![The funnel](photos/home_page_filtering.png)
 
 About the creation of the recommendation system, we first convert all the text values into numeric values by using LabelEncoder for column 'Type' and method which converted each category of column 'Genres' into a label with binary values.
-Since this is a non-supervised model, we passed the step 'model traing' by going directly to the prediction of NearestNeighbors, an unsupervised learner for implementing neighbor searches.
-We then tried to change the hyperparameter to get our model better but we dont' see much improvement so we sorted values by setting the weight on Votes and Genres.
+Since this is a non-supervised model, we passed the step 'model traning' by going directly to the prediction of NearestNeighbors, an unsupervised machine learning model for implementing neighbor searches.
+We then tried to change the hyperparameter to get our model better but we didn't see much improvement so we sorted values by setting the weight on Votes and Genres.
 
 ![The Feature Engineering](photos/home2.png)
 
